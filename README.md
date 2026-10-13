@@ -1,1 +1,2 @@
 # escape-from-prison
+A 3D low-poly escape game set in a maximum security prison. You will encounter various NPCs around the prison, and you need to try and escape the prison, with help from the NPCs. Armed guards will actively patrol the corridors, and the warden himself rdv will come out and hunt you down if he finds out you are trying to escape (if you aren’t stealthy enough or if you spend too much time).
